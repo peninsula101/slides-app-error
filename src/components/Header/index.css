@@ -1,0 +1,23 @@
+.header-bg {
+  width: 100vw;
+  height: 15vh;
+  background-color: #dbeafe;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.logo-img {
+  width: 50px;
+  height: 40px;
+}
+
+.header-head {
+  margin-left: 10px;
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 30px;
+}
